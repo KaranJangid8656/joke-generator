@@ -3,7 +3,7 @@
 A fun and interactive web application designed to brighten your day with random jokes! This project features a sleek **dark-themed UI** for a modern look, and it fetches jokes seamlessly using a public API.
 
 ---
-<img src="https://github.com/user-attachments/assets/5dbb8454-45da-4838-b6be-b7cbf3a1f821" width="500" alt="UI Image">
+   <img src="https://github.com/user-attachments/assets/5dbb8454-45da-4838-b6be-b7cbf3a1f821" width="250" alt="UI Image">
 
 
 
